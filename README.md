@@ -10,7 +10,6 @@ is **${name}**
 
 The replaced text takes the format of the *placeholder* in the template ".docx"
 
-Use this function to generate the document:
 
 
 
